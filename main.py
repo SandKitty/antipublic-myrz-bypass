@@ -1,8 +1,6 @@
-import winreg
 import hashlib
 import requests
 import colorama
-import secrets
 import argparse
 
 colorama.init()
